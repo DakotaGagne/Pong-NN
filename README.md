@@ -1,4 +1,4 @@
-# Pong_NN_Trainer
+# Pong_NN Trainer and Tester
 
 ## Overview
 
